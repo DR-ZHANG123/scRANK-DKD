@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this code, please cite the manuscript below."
+title: "scRANK-DKD: a leakage-controlled within-sample rank framework for cross-cohort kidney transcriptomics"
+abstract: >-
+  Analysis code, frozen analysis plan, result tables and figures for the
+  scRANK-DKD framework: single-cell-derived cell-state programs constrain the
+  candidate gene space, a within-sample percentile-rank encoding removes
+  dependence on absolute expression scale, and a light penalized aggregator is
+  evaluated under a leakage-free leave-one-cohort-out protocol.
+type: software
+license: MIT
+authors:
+  - given-names: Hua
+    family-names: Zhang
+    affiliation: "Department of Endocrinology, Shanxi Provincial People's Hospital, Taiyuan, China"
+    orcid: "https://orcid.org/0009-0005-8486-3253"
+  - given-names: Jun
+    family-names: Li
+    affiliation: "Department of Cardiology, Cardiovascular Hospital Affiliated to Shanxi Medical University, Taiyuan, China"
+  - given-names: Jie
+    family-names: Qin
+    affiliation: "Department of Endocrinology, Shanxi Provincial People's Hospital, Taiyuan, China"
+keywords:
+  - diabetic kidney disease
+  - within-sample normalization
+  - gene rank pairs
+  - cross-cohort transfer
+  - single-cell RNA sequencing
+  - injury ordering
+repository-code: "[[TODO repository url]]"
+preferred-citation:
+  type: article
+  title: "A leakage-controlled framework reveals the importance of candidate-space provenance in cross-cohort kidney transcriptomics"
+  authors:
+    - given-names: Hua
+      family-names: Zhang
+    - given-names: Jun
+      family-names: Li
+    - given-names: Jie
+      family-names: Qin
+  journal: "[[TODO journal, on acceptance]]"
+  year: 2026
