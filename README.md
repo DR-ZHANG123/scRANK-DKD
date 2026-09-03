@@ -83,14 +83,6 @@ Single-cell: GSE131882, GSE209781. Bulk: GSE30528, GSE30529, GSE96804, GSE99339,
 GSE104954. GSE30122 and GSE1009 are retrieved but excluded — GSE30122 shares
 patients with two retained cohorts, GSE1009 contains technical replicates.
 
-## Citation
-
-See `CITATION.cff`. Archived snapshot with a permanent DOI:
-
-```
-DOI: [to be inserted on deposit]
-```
-
 ## License
 
 MIT — see `LICENSE`.
